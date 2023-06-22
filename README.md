@@ -28,9 +28,10 @@
   
   <section>
     <h2 align="center"> 🔍 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 🔍 </h2>
-    <p align="center"> Explore the numbers in my GitHub statistics </p>
     <br>
-    <div align="center">
-    </div>
+    <p> Explore the numbers in my GitHub statistics </p>
   </section>
-</body  
+</body>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TolMen&layout=donut&custom_title=Usage%20percentage&theme=midnight-purple)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TolMen&show_icons=true&theme=midnight-purple&custom_title=General%20informations)
