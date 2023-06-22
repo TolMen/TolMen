@@ -21,8 +21,8 @@
     <ul>
       <li> <strong>Mastered</strong> : HTML / CSS / UML(PlantUML) / WordPress / Elementor </li>
       <li> <strong>Learning</strong> : Python / PHP/Sympony / SQL / GIT(GitHub) / PhpMyAdmin </li>
-      <li> <strong>Future objective</strong> : Java - C++ </li>
-      <li> <strong>Notions</strong> : SASS - JavaScript </li>
+      <li> <strong>Future objective</strong> : Java / C++ </li>
+      <li> <strong>Notions</strong> : SASS / JavaScript </li>
     </ul>
   </section>
   
