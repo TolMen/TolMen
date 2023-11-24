@@ -9,7 +9,7 @@
   <section>
     <h2 align="center"> 💻 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 💻 </h2>
     <br>
-    <p> - Pseudo : TolMen </p>
+    <p> - Pseudo : TolMen Jy</p>
     <p> - Level : Beginner 🎓 </p>
     <p> - Preferred domain : Video Games 👾 </p>
     <p> - Various passions : Hiking 🌳 / Swimming 🌊 / Science 🔬 </p>
