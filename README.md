@@ -30,8 +30,11 @@
     <h2 align="center"> 🔍 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 🔍 </h2>
     <br>
     <p> Explore the numbers in my GitHub statistics </p>
+    <p> Order of ranks : S / A+ / A / A- / B+ / B / B- / C+ / C </p>
   </section>
 </body>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TolMen&layout=donut&custom_title=Usage%20percentage&theme=midnight-purple)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TolMen&show_icons=true&theme=midnight-purple&custom_title=General%20informations)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TolMen&layout=donut&custom_title=Usage%20percentage&theme=midnight-purple)
+
+
