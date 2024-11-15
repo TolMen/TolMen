@@ -35,7 +35,6 @@
 </body>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TolMen&show_icons=true&theme=midnight-purple&custom_title=General%20informations)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TolMen)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TolMen&layout=donut&custom_title=Usage%20percentage&theme=midnight-purple)
 
 
