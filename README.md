@@ -11,7 +11,7 @@
     <br>
     <p> - Pseudo : TolMen Jy</p>
     <p> - Level : Beginner 🎓 </p>
-    <p> - Preferred domain : Video Games 👾 </p>
+    <p> - Preferred domain : Website & Video Games 👾 </p>
     <p> - Various passions : Hiking 🌳 / Swimming 🌊 / Science 🔬 </p>
     <p> - Resources : Grafikart / MiCode / Benjamin Code / Doc Geraud / Développeur Libre / Game Dev Alliance </p>
     <br>
@@ -19,9 +19,9 @@
     <br>
     <p> - Technical skills ⚙️ : </p>
     <ul>
-      <li> <strong>Mastered</strong> : HTML / CSS / UML(PlantUML) / WordPress / Elementor </li>
-      <li> <strong>Learning</strong> : Python / PHP / Symfony / SQL / GIT(GitHub) / PhpMyAdmin </li>
-      <li> <strong>Future objective</strong> : Java / C++ </li>
+      <li> <strong>Mastered</strong> : HTML 5 / CSS 3 / UML(PlantUML) / GIT(GitHub) / PhpMyAdmin / WordPress / Elementor </li>
+      <li> <strong>Learning</strong> : Python 3.13 / PHP 8.4 / Symfony 7.3 / SQL </li>
+      <li> <strong>Future objective</strong> : Java 21 / C++ </li>
       <li> <strong>Notions</strong> : SASS / JavaScript </li>
     </ul>
   </section>
