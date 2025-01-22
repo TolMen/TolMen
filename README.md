@@ -16,7 +16,6 @@
     <p> - Resources : Grafikart / MiCode / Benjamin Code / Doc Geraud / Développeur Libre / Game Dev Alliance </p>
     <br>
     <p> - Methodological skills 🗂️ : SEO / CRM / Domain-Driven Design / Use Case Diagram / Class Diagram / Sequence Diagram / BDD(Data models) </p>
-    <br>
     <p> - Technical skills ⚙️ : </p>
     <ul>
       <li> <strong>Mastered</strong> : HTML 5 / CSS 3 / UML(PlantUML) / GIT(GitHub) / PhpMyAdmin / WordPress / Elementor </li>
