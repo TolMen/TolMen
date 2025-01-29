@@ -29,7 +29,7 @@
     <h2 align="center"> 🔍 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 🔍 </h2>
     <br>
     <p> Explore the numbers in my GitHub statistics </p>
-    <p> Order of ranks : S / A+ / A / A- / B+ / B / B- / C+ / C </p>
+    <p> Order of ranks : S (<1%) / A+ (<12,5%) / A (<25%) / A- (<37,5%) / B+ (<50%) / B (<62,5%) / B- (<75%) / C+ (<87,5%) / C </p>
   </section>
 </body>
 
