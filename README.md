@@ -15,12 +15,12 @@
     <p> - Various passions : Hiking 🌳 / Swimming 🌊 / Science 🔬 </p>
     <p> - Resources : Grafikart / MiCode / Benjamin Code / Doc Geraud / Développeur Libre / Game Dev Alliance </p>
     <br>
-    <p> - Methodological skills 🗂️ : SEO / CRM / Domain-Driven Design / Use Case Diagram / Class Diagram / Sequence Diagram / BDD(Data models) </p>
+    <p> - Methodological skills 🗂️ : BDD(Data models) / SEO / CRM / Domain-Driven Design / Use Case Diagram / Class Diagram / Sequence Diagram </p>
     <p> - Technical skills ⚙️ : </p>
     <ul>
-      <li> <strong>Mastered</strong> : HTML 5 / CSS 3 / UML(PlantUML) / GIT(GitHub) / PhpMyAdmin / WordPress / Elementor </li>
-      <li> <strong>Learning</strong> : Python 3.13 / PHP 8.4 / Symfony 7.3 / SQL </li>
-      <li> <strong>Future objective</strong> : Java 21 / C++ </li>
+      <li> <strong>Mastered</strong> : HTML 5 / CSS 3 / SQL / UML(PlantUML) / GIT(GitHub) / PhpMyAdmin / WordPress / Elementor </li>
+      <li> <strong>Learning</strong> : Java 21 / PHP 8.4 / Symfony 7.3 / Python 3.13 </li>
+      <li> <strong>Future objective</strong> : C++ </li>
       <li> <strong>Notions</strong> : SASS / JavaScript </li>
     </ul>
   </section>
