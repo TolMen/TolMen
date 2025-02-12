@@ -1,32 +1,28 @@
-<body>
-  <div align="center">
-    <h1> 📚 𝙷𝚊𝚙𝚙𝚢 𝚛𝚎𝚊𝚍𝚒𝚗𝚐 📚 </h1>
-    <p align="center"> Explore my information and discover my statistics </p>
-  </div>
-  
-  <br>
-  
+<div align="center">
+  <h2>💻 About Me 💻</h2>
+</div>
+
+- **Pseudo** : TolMen Jy  
+- **Aspiring Web & Game Developer** 🎮  
+- **Passions** : Hiking 🌳 / Swimming 🌊 / Science 🔬  
+
+<div align="center">
+  <h2>🔧 Skills & Technologies 🔧</h2>
+</div>
+
+#### **Technical Skills** ⚙️  
+- **Proficient** : *PHP 8.4 / Symfony 7.3 / SQL / WordPress*
+- **Currently Learning** : *Java 21 / Python 3.13* 
+- **Future Goal** : *C++*
+- **Basic Knowledge** : *JavaScript / SASS*
+
+#### **Methodological Skills** 🗂️  
+- Database Design (BDD) / SEO / CRM  
+- Domain-Driven Design / UML (Use Case, Class & Sequence Diagrams)  
+
+<body>  
   <section>
-    <h2 align="center"> 💻 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 💻 </h2>
-    <br>
-    <p> - Pseudo : TolMen Jy</p>
-    <p> - Level : Beginner 🎓 </p>
-    <p> - Preferred domain : Website & Video Games 👾 </p>
-    <p> - Various passions : Hiking 🌳 / Swimming 🌊 / Science 🔬 </p>
-    <p> - Resources : Grafikart / MiCode / Benjamin Code / Doc Geraud / Développeur Libre / Game Dev Alliance </p>
-    <br>
-    <p> - Methodological skills 🗂️ : BDD(Data models) / SEO / CRM / Domain-Driven Design / Use Case Diagram / Class Diagram / Sequence Diagram </p>
-    <p> - Technical skills ⚙️ : </p>
-    <ul>
-      <li> <strong>Mastered</strong> : HTML 5 / CSS 3 / SQL / UML(PlantUML) / GIT(GitHub) / PhpMyAdmin / WordPress / Elementor </li>
-      <li> <strong>Learning</strong> : Java 21 / PHP 8.4 / Symfony 7.3 / Python 3.13 </li>
-      <li> <strong>Future objective</strong> : C++ </li>
-      <li> <strong>Notions</strong> : SASS / JavaScript </li>
-    </ul>
-  </section>
-  
-  <section>
-    <h2 align="center"> 🔍 𝙼𝚢 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜 🔍 </h2>
+    <h2 align="center"> 🔍 My Statistics 🔍 </h2>
     <br>
     <p> Explore the numbers in my GitHub statistics </p>
     <p> Order of ranks : S (<1%) / A+ (12,5%) / A (25%) / A- (37,5%) / B+ (50%) / B (62,5%) / B- (75%) / C+ (87,5%) / C </p>
@@ -35,5 +31,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TolMen&show_icons=true&theme=midnight-purple&custom_title=General%20informations)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TolMen&layout=donut&custom_title=Usage%20percentage&theme=midnight-purple)
-
-
