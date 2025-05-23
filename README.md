@@ -2,7 +2,8 @@
   <h2>💻 About Me 💻</h2>
 </div>
 
-- **Pseudo** : TolMen Jy  
+- **Pseudo** : TolMen Jy
+- **Portfolio** : https://jessyf.fr/ 
 - **Aspiring Web & Game Developer** 🎮  
 - **Passions** : Hiking 🌳 / Swimming 🌊 / Science 🔬  
 
