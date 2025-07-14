@@ -2,7 +2,7 @@
   <h2>💻 About Me 💻</h2>
 </div>
 
-- **Name** : Jessy
+- **Name** : Jessy Frachisse
 - **Portfolio** : https://jessyf.fr/ 
 - **Aspiring Web & Game Developer** 🎮  
 - **Passions** : Hiking 🌳 / Swimming 🌊 / Science 🔬  
